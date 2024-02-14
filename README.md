@@ -5,5 +5,5 @@
 ### Contributing
 PneumaticPiston
 
-A Note
+**A Note
 This theme contains parts of a browser theme created by Microsoft
