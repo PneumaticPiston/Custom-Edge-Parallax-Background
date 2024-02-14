@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Skyrim Parallax New Tab",
+    "chrome_url_overrides": {"newtab": "./ntp.html"},
+    "permissions": [
+        "activeTab"
+    ]
+}
